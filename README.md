@@ -78,8 +78,9 @@ The dataset consists of multiple related tables:
 
 ## 🔍 Method
 1. **Data Cleaning & Preparation**
-   - Removed inconsistencies and validated relationships between tables  
-   - Ensured date and revenue fields were analysis-ready  
+   - Updated the data type for each column (previously set to General). 
+   - Converted numeric values into the correct date format
+   - Merged two tables into a single table.
 
 2. **Data Modeling**
    - Built a star-schema model in Power BI  
@@ -97,7 +98,7 @@ The dataset consists of multiple related tables:
 ---
 
 ## 📷 Dashboard Image
-
+![Sales team Dashboard Powerbi](https://github.com/vickyrathod50022/b2b-sales-pipeline-analysis/blob/main/sales-team-dashboard-bi.png?raw=true)
 
 ## 📈 Key Insights
 
@@ -167,14 +168,22 @@ The dataset consists of multiple related tables:
    - Train agents on value-based selling for high-priced products.
 
 ---
+## Future Work
+
+The current analysis is based on data from **March 2017 to December 2017**. For further analysis, **Year-over-Year (YoY)** data can be included to identify long-term patterns and trends.
+
+By analyzing multiple years of data, we can determine whether the **weak performance observed in April, June, and October** represents a consistent seasonal trend across years or a one-time quarterly trend specific to **2017**. This extended analysis would provide deeper insights into seasonality and help improve forecasting and strategic decision-making.
+
+---
 
 ## 🧾 Conclusion
 The analysis highlights performance gaps, seasonal sales behavior, and product-level opportunities that can directly support **revenue growth and sales optimization**.  
 
 ---
 
+
 ## 📬 Contact Details
 **Vicky Rathod**  
-📧 Email: your-email@example.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/vicky-rathod](https://www.linkedin.com/in/vicky-rathod-7a2750242/)
+📧 Email: vickyrathod50032@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/vicky-rathod](https://www.linkedin.com/in/vicky-rathod-7a2750242/) <br>
 💻 GitHub: [https://github.com/vickyrathod](https://github.com/vickyrathod50022)
